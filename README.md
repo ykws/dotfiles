@@ -1,0 +1,3 @@
+- Ruby -> [rbenv](https://github.com/rbenv/rbenv)
+- Node -> [n](https://github.com/tj/n)
+- PHP  -> [phpenv](https://github.com/phpenv/phpenv)
