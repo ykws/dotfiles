@@ -4,10 +4,12 @@
 ## Node
 [n](https://github.com/tj/n)
 
-### Upgrade n
+### Upgrade Node
 
 ```
-$ npm update -g n
+$ npm install -g npm
+$ npm install -g n
+$ n latest
 ```
 
 ## PHP
