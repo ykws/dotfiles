@@ -1,5 +1,8 @@
 export PS1='\W\\$ '
 
+# Git
+export PATH=$PATH:"/usr/local/bin/git"
+
 # Ruby
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
