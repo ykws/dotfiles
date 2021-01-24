@@ -14,3 +14,6 @@ $ n latest
 
 ## PHP
 [phpenv](https://github.com/phpenv/phpenv)
+
+## Python
+[pyenv](https://github.com/pyenv/pyenv)
