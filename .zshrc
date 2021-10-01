@@ -23,3 +23,7 @@ alias vz='vim ~/.zshrc'
 
 # gitignore
 function gi() { curl -sLw n https://www.toptal.com/developers/gitignore/api/$@ ;}
+
+# M1 CocoaPods
+alias pod='arch -x86_64 pod'
+
