@@ -5,7 +5,7 @@ git clone git@github.com:ykws/dotfiles.git
 cp dotfiles/.zshrc ~/
 source ~/.zshrc
 gi macOS > .gitignore
-g config --global core.exludesfile ~/.gitignore
+g config --global core.excludesfile ~/.gitignore
 ```
 
 https://sourabhbajaj.com/mac-setup/Git/gitignore.html
