@@ -16,7 +16,7 @@ alias g='git'
 alias gs='git status'
 alias gd='git diff'
 alias gf='git fetch'
-
+alias gv='git log --show-signature -1'
 # zsh
 alias sz='source ~/.zshrc'
 alias vz='vim ~/.zshrc'
