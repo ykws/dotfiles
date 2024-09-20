@@ -29,3 +29,9 @@ $ n latest
 
 ## Python
 [pyenv](https://github.com/pyenv/pyenv)
+
+## Java
+[sdkman](https://sdkman.io/)
+
+## Scala
+https://docs.scala-lang.org/getting-started/index.html
